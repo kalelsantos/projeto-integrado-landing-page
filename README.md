@@ -1,1 +1,1 @@
-# projeto-integrado-landing-page
+# Repositório do Código-Fonte da Landing Page
